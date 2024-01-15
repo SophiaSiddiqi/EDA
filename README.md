@@ -21,7 +21,7 @@ This repository houses my in-depth exploratory data analysis (EDA) and predictiv
 2. Navigate to the project directory:
 
    ```bash
-   cd TipPredictor
+   cd EDA-and-Predictive-Modeling-on-Tips-and-Wages
    ```
 
 3. Explore the Jupyter Notebook:
