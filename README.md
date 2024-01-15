@@ -7,8 +7,8 @@ This repository houses my in-depth exploratory data analysis (EDA) and predictiv
 ## Project Highlights
 
 - **Exploratory Data Analysis (EDA):** Gain insights into the dataset's characteristics, distributions, and correlations.
-- **Predictive Modeling:** Utilize advanced models like Regression, Decision Tree, Naive Bayes, and more to predict tips and wages.
-- **Jupyter Notebooks:** Interactive notebooks providing a step-by-step walkthrough of the analysis and modeling process.
+- **Predictive Modeling:** Utilize advanced models like Logistic Regression, Naive Bayes, QDA and LDA to predict tips and wages.
+- **Jupyter Notebook:** Interactive notebook providing a step-by-step walkthrough of the analysis and modeling process.
 
 ## Getting Started
 
